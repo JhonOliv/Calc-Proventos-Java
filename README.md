@@ -39,4 +39,4 @@
 
 ## Autor
 
-Desenvolvido por **[Seu Nome]** como projeto de estudo voltado à evolução técnica em Java, Programação Orientada a Objetos e lógica aplicada a sistemas financeiros.
+Desenvolvido por **Jhonatan Silva** como projeto de estudo voltado à evolução técnica em Java, Programação Orientada a Objetos e lógica aplicada a sistemas financeiros.
